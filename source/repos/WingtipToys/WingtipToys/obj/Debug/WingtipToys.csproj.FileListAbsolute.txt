@@ -115,3 +115,5 @@ C:\Users\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.cspro
 C:\Users\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.csproj.CopyComplete
 C:\Users\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
 C:\Users\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\Aliaksei_Bytskevich\Source\Repos\kikker\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.dll
+C:\Users\Aliaksei_Bytskevich\Source\Repos\kikker\kikker\source\repos\WingtipToys\WingtipToys\obj\Debug\WingtipToys.pdb
